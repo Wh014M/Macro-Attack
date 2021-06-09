@@ -7,9 +7,9 @@ Features :
 
 Coming Soon !!!!!
 
-Author :  Swagkarna
+Author :  <a href="https://github.com/swagkarna">Swagkarna</a>
 
-Contributor : Indhuprakash
+Contributor : <a href="https://github.com/indhu1506">Indhuprakash(School Friend)</href>
 
 Releasing soon video tutorial ....where i demonstrate bypassing gmail virus scan and sending our malicious document to victim  and with some social engineering techniques to convince victim to open file and etc.....
 
