@@ -1,4 +1,5 @@
 ---
+
 Features :
 1.Bypass Both scantime & runtime
 2.Disable Defender Permanently with word/excel file
@@ -6,7 +7,6 @@ Features :
 4.Also work as iplogger
 
 ---
-
 Coming Soon !!!!!
 
 Author :  <a href="https://github.com/swagkarna">Swagkarna</a>
